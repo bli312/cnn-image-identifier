@@ -9,3 +9,5 @@ final project for CSE 144: Machine Learning - Deep Learning. Built an image iden
     print("Path to competition files:", path)
 ```
 
+Or go to the Kaggle competition:
+[Kaggle Competition](https://www.kaggle.com/competitions/ucsc-cse-144-spring-2026-final-project/data?select=test)
