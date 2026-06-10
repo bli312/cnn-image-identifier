@@ -41,14 +41,14 @@ Model checkpoints are **not** stored in Git (too large). Download them from Goog
 | Model | Notebook | Checkpoint file | Google Drive |
 |-------|----------|-----------------|--------------|
 | Baseline — EfficientNet-B0 | `final.ipynb` | `checkpoints/best_mnist_cnn.pt` | [Download](https://drive.google.com/file/d/1-e__JVTVKR1TZGV5X847KcJqrrJe-iVz/view?usp=drive_link/) |
-| **Final — SigLIP2 + LoRA** | `siglipmodel.ipynb` | `checkpoints/best_siglip2_lora.pt` | [TODO: Upload](https://drive.google.com/) |
+| **Final — SigLIP2 + LoRA** | `siglipmodel.ipynb` | `checkpoints/best_siglip2_lora.pt` | [Download](https://drive.google.com/file/d/1hTjFIWG-VulCbmkDOoafOhAqll641dll/view?usp=sharing/) |
 
 After downloading, your directory should look like:
 
 ```text
 checkpoints/
   best_mnist_cnn.pt          # ~16 MB
-  best_siglip2_lora.pt       # Waiting for the file
+  best_siglip2_lora.pt       # ~3.19 GB
 ```
 
 ---
