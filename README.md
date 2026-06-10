@@ -30,6 +30,7 @@ We built two transfer-learning image classifiers for 100-way classification on a
 The full write-up (experimental setup, results, discussion) is included in the repository:
 
 - [`report/CSE144_Final_Project_Report.pdf`](report/CSE144_Final_Project_Report.pdf)
+- [CSE144_Final_Project_Report Google Doc](https://drive.google.com/drive/folders/1zvenvM9JbE6iVIdcoUrV1-VOIS_ACs2C?usp=sharing)
 
 
 ---
