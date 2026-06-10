@@ -17,9 +17,8 @@ We built two transfer-learning image classifiers for 100-way classification on a
 
 ## Kaggle Leaderboard
 
-![Our team's position on the Kaggle public leaderboard](assets/kaggle_leaderboard.png)
+![Our team's position on the Kaggle public leaderboard](assets/Kaggle_rank.png)
 
-> **TODO:** Save a screenshot of your team on the [Kaggle leaderboard](https://www.kaggle.com/competitions/ucsc-cse-144-spring-2026-final-project/leaderboard) as `assets/Kaggle_rank.png` and commit it to this repository.
 
 **Public leaderboard score (final model):** 0.96363
 
